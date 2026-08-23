@@ -1,41 +1,12 @@
-# 👋 ¡Hola! Soy Manuel González
+# 👋 Hello, Coders! 💻
 
-### 💻 Estudiante de Ingeniería en Sistemas Computacionales | Full Stack Developer en formación
+### 🚀 Software Developer | Ingeniería en Sistemas Computacionales
 
-> 🚀 Construyendo proyectos, aprendiendo nuevas tecnologías y convirtiendo ideas en código.
-
----
-
-## 🧑‍💻 Sobre mí
-
-Soy estudiante de **Ingeniería en Sistemas Computacionales** apasionado por el desarrollo de software, el diseño de interfaces y la creación de aplicaciones web.
-
-Me gusta experimentar con diferentes tecnologías y entender cómo funcionan las cosas desde el frontend hasta la infraestructura.
-
-```typescript
-const manuel = {
-  role: "Software Developer",
-  career: "Ingeniería en Sistemas Computacionales",
-  focus: [
-    "Frontend",
-    "Backend",
-    "Full Stack",
-    "DevOps"
-  ],
-  currentlyLearning: [
-    "TypeScript",
-    "React",
-    "Remix",
-    "Docker",
-    "Linux"
-  ],
-  mindset: "Learn → Build → Break → Fix → Repeat 🚀"
-};
-```
+> Building ideas, writing code and learning something new every day.
 
 ---
 
-## ⚡ Tecnologías
+## ⚡ Tech Stack
 
 ### 🎨 Frontend
 
@@ -56,7 +27,6 @@ const manuel = {
   <img src="https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white"/>
   <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white"/>
 </p>
 
 ### ⚙️ Backend & Tools
@@ -70,7 +40,7 @@ const manuel = {
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-### 🗄️ Bases de datos
+### 🗄️ Databases
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -78,7 +48,7 @@ const manuel = {
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white"/>
 </p>
 
-### 📊 Infraestructura & Monitoring
+### 📊 Infrastructure & Monitoring
 
 <p>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
@@ -89,41 +59,41 @@ const manuel = {
 
 ---
 
-## 🚀 Proyectos
+## 🚀 Featured Projects
 
 ### 🗺️ Portal de Ordenamiento Territorial
 
-Aplicación web orientada a la consulta y visualización de información territorial.
+Web application focused on the visualization and consultation of territorial information.
 
-**Tecnologías:**
+**Technologies:**
 
-`TypeScript` `Remix` `Tailwind CSS` `Maps` `Node.js`
+`TypeScript` `Remix` `Tailwind CSS` `Node.js`
 
 ---
 
 ### 🛍️ Miranova Luxe
 
-Proyecto de comercio electrónico enfocado en productos de moda y belleza.
+E-commerce project focused on fashion and beauty products.
 
-**Tecnologías:**
+**Technologies:**
 
 `React` `TypeScript` `MUI` `Next.js`
 
 ---
 
-### 🎵 Plataforma Musical
+### 🎵 Music Platform
 
-Aplicación para administrar y consumir contenido musical.
+Web application for managing and consuming music content.
 
-**Características:**
+**Features:**
 
-* 🎵 Gestión de canciones
-* 💿 Álbumes
-* 👤 Usuarios
-* 🔐 Administración
-* 🗄️ Base de datos
+* 🎵 Song management
+* 💿 Albums
+* 👤 Users
+* 🔐 Administration
+* 🗄️ Database management
 
-**Tecnologías:**
+**Technologies:**
 
 `TypeScript` `Node.js` `Prisma` `SQL`
 
@@ -131,96 +101,108 @@ Aplicación para administrar y consumir contenido musical.
 
 ### 📡 Monitoring Stack
 
-Laboratorio de infraestructura y monitoreo utilizando herramientas open source.
+Infrastructure and monitoring laboratory using open-source technologies.
 
-**Tecnologías:**
+**Technologies:**
 
 `Docker` `Grafana` `Zabbix` `LibreNMS` `InfluxDB` `Linux`
 
 ---
 
-## 📚 Actualmente aprendiendo
+## 📚 Currently Learning
 
-```text
-TypeScript       ███████████████████░  95%
-React            ██████████████████░░  90%
-Tailwind CSS     ██████████████████░░  90%
-Remix            ███████████████░░░░░  75%
-Node.js          ███████████████░░░░░  75%
-Docker           ██████████████░░░░░░  70%
-Linux            ██████████████░░░░░░  70%
-Backend          █████████████░░░░░░░  65%
-DevOps           ████████████░░░░░░░░  60%
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Remix-Learning-000000?style=for-the-badge&logo=remix&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-Learning-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-Learning-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
 
 ---
 
-## 🧠 Ingeniería de Sistemas
+## 🧠 Engineering & Computer Science
 
-Además del desarrollo web, también trabajo con temas relacionados con:
+Areas I'm interested in and currently exploring:
 
-* 🔢 Métodos numéricos
-* ⚡ Sistemas digitales
-* 🔌 Arduino y electrónica
+* 🔢 Numerical Methods
+* ⚡ Digital Systems
+* 🔌 Arduino & Electronics
 * 📐 UML
-* 🧩 Lógica proposicional
-* 🏗️ Arquitectura de software
+* 🧩 Propositional Logic
+* 🏗️ Software Architecture
 * 📋 ISO/IEC 12207
 * 📋 ISO 9001
-* 🖥️ Administración de sistemas Linux
-* 🐳 Contenedores y Docker
+* 🖥️ Linux Administration
+* 🐳 Containerization & Docker
+* 🌐 Web Development
+
+---
+
+## 🎯 Goals
+
+```text
+[x] Learn web development
+[x] Work with TypeScript
+[x] Build real-world projects
+[x] Learn React
+[x] Explore different frameworks
+[x] Work with Linux
+[x] Learn Docker
+
+[ ] Become a Full Stack Developer
+[ ] Improve DevOps skills
+[ ] Build Open Source projects
+[ ] Contribute to the developer community
+[ ] Keep building amazing things 🚀
+```
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    height="170"
+  />
+
+<img
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"
+ height="170"
+/>
+
 </p>
 
 ---
 
-## 🔥 Actividad
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true"/>
+  <img
+    src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 ---
 
-## 🎯 Objetivos
+## 💡 Developer Mindset
 
 ```text
-[x] Aprender desarrollo web
-[x] Trabajar con TypeScript
-[x] Crear proyectos reales
-[x] Aprender React
-[x] Explorar diferentes frameworks
-
-[ ] Convertirme en Full Stack Developer
-[ ] Mejorar mis conocimientos de DevOps
-[ ] Crear proyectos Open Source
-[ ] Contribuir a proyectos de la comunidad
-[ ] Seguir construyendo cosas increíbles 🚀
+Learn → Build → Break → Fix → Improve → Repeat 🚀
 ```
 
----
-
-## 💡 Filosofía
-
-> **"No necesito saberlo todo. Necesito saber cómo aprenderlo."**
-
-Cada proyecto es una oportunidad para aprender algo nuevo.
+> "Every bug is another opportunity to understand how things really work."
 
 ---
 
-## 📫 Conecta conmigo
+## 📫 Connect With Me
 
 <p>
   <a href="https://github.com/TU_USUARIO">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -229,7 +211,9 @@ Cada proyecto es una oportunidad para aprender algo nuevo.
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e1732,100:3b0d1c&height=120&section=footer"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:6e1732,100:3b0d1c&height=120&section=footer"
+  />
 </p>
 
 <p align="center">
