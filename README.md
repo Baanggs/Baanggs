@@ -152,34 +152,8 @@ Learn → Build → Break → Fix → Improve → Repeat 🚀
 
 > Every bug is another opportunity to understand how things really work.
 
----
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    height="170"
-  />
-
-<img
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"
- height="170"
-/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true"
-  />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
