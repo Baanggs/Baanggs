@@ -110,63 +110,7 @@
 
 ---
 
-## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
-### 🗺️ Portal de Ordenamiento Territorial
-
-Web application for visualization and consultation of territorial information.
-
-**Stack**
-
-`TypeScript` `Remix` `Tailwind CSS` `Node.js`
-
-</td>
-
-<td width="50%">
-
-### 🛍️ Miranova Luxe
-
-E-commerce project focused on fashion and beauty products.
-
-**Stack**
-
-`React` `TypeScript` `MUI` `Next.js`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🎵 Music Platform
-
-Application for managing music content, albums, songs and users.
-
-**Stack**
-
-`TypeScript` `Node.js` `Prisma` `SQL`
-
-</td>
-
-<td width="50%">
-
-### 📡 Monitoring Stack
-
-Infrastructure laboratory focused on monitoring servers and networks.
-
-**Stack**
-
-`Docker` `Grafana` `Zabbix` `LibreNMS` `InfluxDB`
-
-</td>
-</tr>
-</table>
-
----
 
 ## 🧠 Knowledge
 
@@ -183,24 +127,6 @@ Infrastructure laboratory focused on monitoring servers and networks.
 
 </p>
 
----
-
-## 📚 Currently Learning
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,remix,docker,linux,nodejs" />
-</p>
-
-```text
-Frontend Development       ████████████████████░
-Backend Development        ████████████████░░░░
-Linux & Servers             █████████████████░░░
-Docker & DevOps             ███████████████░░░░░
-Networking                  ██████████████░░░░░░
-Monitoring                  ██████████████░░░░░░
-```
-
----
 
 ## 🎯 Goals
 
